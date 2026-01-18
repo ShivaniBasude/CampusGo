@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import {useState} from "react";
 
-export default function Navbar({ cartCount =0 , search , setSearch , category , setCategory}) {
+export default function Navbar({ cartCount = 0 , search , setSearch , category , setCategory}) {
   const navigate = useNavigate() ;
 
   return (

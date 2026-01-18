@@ -89,14 +89,12 @@ const updateQty = (id, change) => {
       ) : null 
       }   
 
-
-
       <div className="hero">
         <h2>Order Anything on Campus</h2>
         <p>Fast • Affordable • Reliable</p>
       </div>
-
-
+      
+            
       <div className="items-grid">
         {filteredItems
         
@@ -113,7 +111,7 @@ const updateQty = (id, change) => {
         ))}
       </div>
 
-      
+      <footer>CampusGo @All rights reserved</footer>
     </>
   );
 }

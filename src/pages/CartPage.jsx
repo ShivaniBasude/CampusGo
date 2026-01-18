@@ -16,11 +16,12 @@ export default function CartPage() {
 
   const placeOrder = () => {
     alert("Order placed successfully!");
-    localStorage.removeItem("cart"); // ✅ cart emptied
+    localStorage.removeItem("cart"); 
     navigate("/");
   };
 
   const total = cart.reduce((sum, item) => sum + item.price*item.qty, 0);
+
 
     const updateQty = (id, change) => {
     const updated = cart
@@ -64,6 +65,7 @@ export default function CartPage() {
           ))}
 
           <h3>Total: ₹{total}</h3>
+
           <button className="order-btn" onClick={()=> navigate("/order")}>
             Place order
           </button>

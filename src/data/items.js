@@ -37,133 +37,133 @@ const items = [
     {
       "id": 2,
       "name": "Pizza",
-      "price": 120,
+      "price": 180,
       "category": "Food",
       "image": pizza
     },
     {
       "id": 3,
       "name": "Coffee",
-      "price": 40,
+      "price": 20,
       "category": "Beverages",
       "image": coffee
     },
      {
       "id": 4,
       "name": "Sandwich",
-      "price": 60,
+      "price": 30,
       "category": "Food",
       "image":sandwich
     },
     {
       "id": 5,
       "name": "Dosa",
-      "price": 120,
+      "price": 80,
       "category": "Food",
       "image": dosa
     },
     {
       "id": 6,
       "name": "Idli",
-      "price": 40,
+      "price": 35,
       "category": "Food",
       "image": idli
     },
      {
       "id": 7,
       "name": "Kharabath",
-      "price": 60,
+      "price": 50,
       "category": "Food",
       "image": kharabath
     },
     {
       "id": 8,
       "name": "C programming Book",
-      "price": 120,
+      "price": 200,
       "category": "Books",
       "image": cprogrammingbook
     },
     {
       "id": 9,
       "name": "Black pens",
-      "price": 40,
+      "price": 50,
       "category": "Stationery",
       "image": blackpens
     },
      {
       "id": 10,
       "name": "Orange Juice",
-      "price": 60,
+      "price": 35,
       "category": "Beverages",
       "image": juice
     },
     {
       "id": 11,
       "name": "Cheese wraps",
-      "price": 120,
+      "price": 90,
       "category": "Food",
       "image": cheesewrap
     },
     {
       "id": 12,
       "name": "Coke",
-      "price": 40,
+      "price":250,
       "category": "Beverages",
       "image": coke
     },
      {
       "id": 13,
       "name": "Nachos",
-      "price": 60,
+      "price": 30,
       "category": "Food",
       "image": nachos
     },
     {
       "id": 14,
       "name": "Fries",
-      "price": 120,
+      "price": 70,
       "category": "Food",
       "image": fries
     },
     {
       "id": 15,
       "name": "Maggi",
-      "price": 40,
+      "price": 30,
       "category": "Food",
       "image": maggi
     },
      {
       "id": 16,
       "name": "Tape",
-      "price": 60,
+      "price": 20,
       "category": "Stationery",
       "image": tape
     },
     {
       "id": 17,
       "name": "Notebook",
-      "price": 120,
+      "price": 35,
       "category": "Stationery",
       "image": notebook
     },
     {
       "id": 18,
       "name": "Pepsi",
-      "price": 40,
+      "price": 20,
       "category": "Beverages",
       "image": pepsi
     },
      {
       "id": 19,
       "name": "Capuccino",
-      "price": 60,
+      "price": 30,
       "category": "Beverages",
       "image": capuccino
     },
     {
       "id": 20,
       "name": "Sticky notes",
-      "price": 120,
+      "price": 20,
       "category": "Stationery",
       "image": sticky_notes
     },
@@ -177,14 +177,14 @@ const items = [
      {
       "id": 22,
       "name": "Python programming Book",
-      "price": 60,
+      "price": 160,
       "category": "Books",
       "image": pythonprogrammingbook
     },
     {
       "id": 23,
       "name": "Book mark",
-      "price": 120,
+      "price": 25,
       "category": "Stationery",
       "image": bookmark
     },

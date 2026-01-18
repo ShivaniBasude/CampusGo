@@ -25,7 +25,7 @@ export default function OrderPage() {
     }
 
     alert("Order details saved!");
-    // Later → navigate to payment
+    
     navigate("/payment");
   };
 
