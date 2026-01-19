@@ -42,7 +42,7 @@ export default function FeedbackPage() {
         localStorage.setItem("feedbacks", JSON.stringify([...existing, feedback]));
 
         alert("Thank you for your feedback 🌟");
-        navigate("/");
+        // navigate("/");
 
       
     };
